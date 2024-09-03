@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on projects involving React, Node.js, TypeScript, Python, and cloud services. I’m particularly interested in opportunities that leverage my experience in both front-end and back-end development, as well as those involving innovative solutions and cutting-edge technologies.
 
-📫 How to reach me: Feel free to connect with me on LinkedIn or email me at lindavataksi3@example.com.
+📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/linda-vataksi-54a0541a3/) or email me at lindavataksi3@gmail.com.
 
 😄 Pronouns: She/Her
 
